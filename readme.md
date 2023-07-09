@@ -9,7 +9,7 @@ This repository contains my Bachelor's thesis from Jagiellonian University in Cr
 - Description of Fast Fourier Transform (FFT) algorithms with proofs of complexity and correctness:
     - One dimensional FFT:
         - Cooley-Tukey Radix-2 DIT FFT
-        - Cooley-Tukey Radix-$n$ DIT for any $n$
+        - Cooley-Tukey algorithm with arbitrary radix
     - Two dimensional FFT :
         - "Row-Column" algorithm
         - "Vector-Radix" algorithm
