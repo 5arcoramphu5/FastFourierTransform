@@ -2,7 +2,7 @@
 
 This repository contains my Bachelor's thesis from Jagiellonian University in Cracow titled "Fast Fourier Transform in one and two dimensions". Content of the thesis is available in `thesis.pdf`. File `fast_fourier_transform.ipynb` contains implementation of algorithms described in the thesis and visualisations of their results. 
 
-## Contents of file `thesis.pdf`
+## Contents of `thesis.pdf`
 
 - Introduction to Discrete Fourier Transform (DFT) with required definitions and proofs
 - Introduction to multidimensional DFT
